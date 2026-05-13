@@ -46,6 +46,9 @@ A comprehensive vehicle management system built with JavaFX and PostgreSQL for O
 
 ## Author
 Pofane Matlali
+Moeti Leleka
+Khabele Lethako
+Ret'selisitsoe Moeketsi
 
 ## Course
 Object-Oriented Programming 2
