@@ -45,10 +45,10 @@ A comprehensive vehicle management system built with JavaFX and PostgreSQL for O
 | insurance_agent | ins123 | Insurance Agent |
 
 ## Author
-Pofane Matlali
-Moeti Leleka
-Khabele Lethako
-Ret'selisitsoe Moeketsi
+Pofane Matlali,
+Moeti Leleka,
+Khabele Lethako, 
+and Ret'selisitsoe Moeketsi
 
 ## Course
 Object-Oriented Programming 2
