@@ -41,12 +41,11 @@ A comprehensive vehicle management system built with JavaFX and PostgreSQL for O
 | Username | Password | Role |
 |----------|----------|------|
 | admin | admin123 | Administrator |
-| john_doe | pass123 | Regular User |
 | police_officer | cop123 | Police Officer |
 | insurance_agent | ins123 | Insurance Agent |
 
 ## Author
-[Your Name]
+Pofane Matlali
 
 ## Course
 Object-Oriented Programming 2
